@@ -1,0 +1,44 @@
+_repo: The-Ivory-Tower_62979
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Lubbock, Percy
+    birthdate: 1879
+    deathdate: 1965
+    gutenberg_agent_id: '8373'
+    url: http://www.gutenberg.org/2009/agents/8373
+    wikipedia: https://en.wikipedia.org/wiki/Percy_Lubbock
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: https://en.wikipedia.org/wiki/Henry_James
+description: '"One of the two novels which Henry James left unfinished at his death
+  ... designed to consist of ten books. Three only of these were written, with one
+  chapter of the fourth, and except for the correction of a few obvious slips the
+  fragment is here printed in full and without alteration ... The pages of preliminary
+  notes, also here printed in full, were not of course intended for publication."--Preface
+  (signed: Percy Lubbock)'
+gutenberg_issued: '2020-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62979'
+  lccn: '17029022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Newport (R.I.) -- Fiction'
+- !lcsh 'Young adults -- Fiction'
+- !lcsh 'Rich people -- Fiction'
+- !lcsh 'Capitalists and financiers -- Fiction'
+- GITenberg
+title: The Ivory Tower
+url: http://www.gutenberg.org/ebooks/62979
