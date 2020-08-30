@@ -1,5 +1,5 @@
 _repo: The-Ivory-Tower_62979
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Lubbock, Percy
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '8373'
     url: http://www.gutenberg.org/2009/agents/8373
     wikipedia: https://en.wikipedia.org/wiki/Percy_Lubbock
+covers:
+- cover_type: archival
+  image_path: 62979-h/images/ivory_cover.jpg
 creator:
   author:
     agent_name: James, Henry
@@ -22,6 +25,8 @@ description: '"One of the two novels which Henry James left unfinished at his de
   fragment is here printed in full and without alteration ... The pages of preliminary
   notes, also here printed in full, were not of course intended for publication."--Preface
   (signed: Percy Lubbock)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62979#The-Ivory-Tower
 gutenberg_issued: '2020-08-19'
 gutenberg_type: Text
 identifiers:
